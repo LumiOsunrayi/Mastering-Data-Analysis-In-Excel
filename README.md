@@ -26,3 +26,5 @@ A/B Testing with Excel
 Inserting Hyperlinks
 
 Protecting the Worksheet
+
+![image](https://user-images.githubusercontent.com/89007169/131268991-54d5696e-0447-46a6-9d0b-cc8b2a69228e.png)

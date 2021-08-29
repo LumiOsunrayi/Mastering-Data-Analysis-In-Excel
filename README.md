@@ -54,3 +54,4 @@ The rest of the course covers Charts and Visualization Techniques, Data Analysis
 ![finance](https://user-images.githubusercontent.com/89007169/131248243-45562cba-c251-4548-91c2-4c7496b94ad2.jpg)
 
 https://www.linkedin.com/in/osunrayi/
+[CertificateOfCompletion_Learning Microsoft SQL Server 2019 (1).pdf](https://github.com/LumiOsunrayi/Mastering-Data-Analysis-In-Excel/files/7072344/CertificateOfCompletion_Learning.Microsoft.SQL.Server.2019.1.pdf)

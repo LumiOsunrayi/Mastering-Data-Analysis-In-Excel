@@ -50,3 +50,5 @@ Data Model Tool
 Slicer in Pivot Table
 
 The rest of the course covers Charts and Visualization Techniques, Data Analysis ToolPak for Statistics, A/B Testing, Inserting Hyperlinks and Protecting the worksheet and Workbook.
+
+![finance](https://user-images.githubusercontent.com/89007169/131248243-45562cba-c251-4548-91c2-4c7496b94ad2.jpg)

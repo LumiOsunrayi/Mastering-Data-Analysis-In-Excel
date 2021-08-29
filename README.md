@@ -50,10 +50,3 @@ Data Model Tool
 Slicer in Pivot Table
 
 The rest of the course covers Charts and Visualization Techniques, Data Analysis ToolPak for Statistics, A/B Testing, Inserting Hyperlinks and Protecting the worksheet and Workbook.
-
-![finance](https://user-images.githubusercontent.com/89007169/131248243-45562cba-c251-4548-91c2-4c7496b94ad2.jpg)
-
-https://www.linkedin.com/in/osunrayi/
-[CertificateOfCompletion_Learning Microsoft SQL Server 2019 (1).pdf](https://github.com/LumiOsunrayi/Mastering-Data-Analysis-In-Excel/files/7072344/CertificateOfCompletion_Learning.Microsoft.SQL.Server.2019.1.pdf)
-
-https://www.youtube.com/watch?v=bcJhMEXB2oE&ab_channel=CookingWithClaudy

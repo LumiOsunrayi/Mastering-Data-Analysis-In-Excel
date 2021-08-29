@@ -1,52 +1,28 @@
 # Mastering-Data-Analysis-In-Excel
 During my Master of Business Analytics degree program, I took Spreadsheet Modeling and Financial Modeling classes that covered manipulating data using Microsoft Excel above the intermediate level. However, to hone my skills, be better prepared for the job market and perhaps learn something new, I decided to take an Udemy course - Mastering Data Analysis in Excel by Vardges Zardaryan.
 
-The course uses a delivery company dataset that has 18,480 customers and 67,375 order records.
+The course uses a delivery company dataset with 18,480 customers and 67,375 order records for data cleaning, manipulation, and visualization. In addition, a housing dataset with 200 records was used for regression analysis, and a web page testing dataset with 1000 records was used for A/B testing.
 
-My learning is in progress. I have covered the following topics;
+The following topics were covered during this course;
 
-Sort and Filter
+Data Cleaning and Preparation Tools
 
-Text to Columns
+Most Frequently Used Functions - Logical, Math, Text, Date, Conditional, Statistical and Financial Functions
 
-Remove Duplicates
+Pivot Table for Data Analysis
 
-Data Validation
+Scenario and Sensitivity Analysis - Goal Seek, Data Table, and Scenario Manager
 
-Find and Replace
+Lookup Functions and Merging Techniques - VLOOKUP, INDEX and MATCH
 
-Data Entry Form
+Formatted and Interactive Tables
 
-Logical Functions: IF, AND, OR
+Charts and Visualization Techniques
 
-Math Functions: SUM, COUNT, SUBTOTAL
+Data Analysis ToolPak for Statistics
 
-Text Functions: RIGHT, LEFT, CONCATENATE, LEN, UPPER, LOWER PROPER
+A/B Testing with Excel
 
-Date Functions: YEAR, MONTH, DAY, EOMONTH, DATE
+Inserting Hyperlinks
 
-Conditional Functions: SUMIF, SUMIFS, COUNTIF, COUNTIFS
-
-Statistical Functions: AVERAGE, AVERAGEIF, AVERAGEIFS, MAX, MIN, MEDIAN, MODE, VAR, STDDEV, CORREL
-
-Financial Functions: PMT, PV, FV, RATE, NPER, NPV, IRR
-
-Introduction to Pivot Table
-
-Calculated Fields in Pivot Table
-
-Grouping Data with Pivot Table
-
-Get PivotData
-
-What-If Analysis: Goal Seek, Data Table, and Scenario Manager
-
-Auditing Formulas
-
-Format as Table
-
-Data Model Tool
-
-Slicer in Pivot Table
-
-The rest of the course covers Charts and Visualization Techniques, Data Analysis ToolPak for Statistics, A/B Testing, Inserting Hyperlinks and Protecting the worksheet and Workbook.
+Protecting the Worksheet
